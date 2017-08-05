@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdelao512/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdelao512/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/pdelao512/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "inquirer": "^3.2.1",
+    "path": "^0.12.7",
+    "save": "^2.3.1"
+  }
+}

@@ -1,0 +1,36 @@
+ header > nav {
+ 	height: 100%;
+ 	width: 100%;
+ }
+
+ body {
+ 	background-color: rgb(0,0,0);
+ }
+
+ #logo-icon {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+#logo {
+ 	margin-left: 50px;
+ 	margin-top: 20px;
+ }
+
+ #head-nav-links {
+ 	margin-right: 50px;
+ 	margin-top: 20px;
+ }
+
+.mainpanel{
+	margin: 50px;
+}
+
+h1, h3,h5 {
+	color: white;
+}
+
+.select-wrapper input.select-dropdown {
+	color: white;
+}
+

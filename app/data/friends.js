@@ -84,15 +84,15 @@ var friendsArray = [
 		name: 'Michael Scott',
 		photo: 'https://thoughtcatalog.files.wordpress.com/2015/06/michaelscott_theoffice.jpeg',
 		scores: [
+			'5',
+			'1',
+			'1',
 			'1',
 			'1',
 			'5',
+			'1',
 			'1',
 			'3',
-			'2',
-			'5',
-			'1',
-			'1',
 			'5'
 		]
 	},

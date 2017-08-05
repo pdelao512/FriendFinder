@@ -33,4 +33,10 @@ h1, h3,h5 {
 .select-wrapper input.select-dropdown {
 	color: white;
 }
+input#userName {
+	color: rgb(135,206,250);
+}
+input#userPhoto {
+	color: rgb(135,206,250);
+}
 
